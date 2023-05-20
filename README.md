@@ -1,8 +1,9 @@
 # salary_ml_model
-### Pyspark project for predicting salary with xgboost regressor
+### Pyspark project for predicting salary with xgboost regressor  
 
 
-### Requirements
+
+### Requirements  
 #### Databricks Runtime Version 12.2 LTS MS (includes Apache Spark 3.3.2, Scala 2.12)  
 - dython==0.7.3  
 - jdc==0.0.9  
